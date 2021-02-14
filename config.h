@@ -27,9 +27,9 @@ static const int monitortime = 5;
 static const int controlkeyclear = 0;
 
 /*Enable blur*/
-#define BLUR
+//#define BLUR
 /*Set blur radius*/
-static const int blurRadius=5;
+//static const int blurRadius=5;
 /*Enable Pixelation*/
 //#define PIXELATION
 /*Set pixelation radius*/
